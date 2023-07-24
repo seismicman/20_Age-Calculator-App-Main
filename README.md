@@ -24,7 +24,7 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/19_Newsletter-Sign-Up-With-Success-Message-Main/](https://seismicman.github.io/19_Newsletter-Sign-Up-With-Success-Message-Main/)
+Solution URL: [https://seismicman.github.io/20_Age-Calculator-App-Main/](https://seismicman.github.io/20_Age-Calculator-App-Main/)
 
 ## My process
 
